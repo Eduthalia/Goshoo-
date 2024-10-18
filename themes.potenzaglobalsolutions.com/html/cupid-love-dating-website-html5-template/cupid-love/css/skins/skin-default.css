@@ -36,12 +36,12 @@ NOTE: This is color stylesheet of Color Scheme.
 .button.default,
 .button.orange,
 .button.yellow {
-	background-color: #ffbc05;
+	background-color: #a21809;
 }
 
 /*Button Border*/
 .button.default {
-	border-color: #ffbc05;
+	border-color: #a21809;
 }
 
 /*************************
@@ -137,7 +137,7 @@ blockquote::before,
 .skill-bar,
 .skill.skill-box .skill-bar .progress-number, 
 .skill.skill-box .skill-bar .progress-type {
-	background: #ffbc05;
+	background: #a21809;
 }
 
 
@@ -247,7 +247,7 @@ ul.list li a:hover,
 .comment-list .comment-metadata .fa,
 .text-yellow, 
 .story-link > a:hover {
-	color: #ffbc05;
+	color: #a21809;
 }
 
 /*.tab .nav-tabs li .nav-link.active:before,
@@ -315,5 +315,5 @@ blockquote::before,
 .service .sidebar ul li a.active,
 form .form-control:focus,
 .main-form .form-control:focus {
-	border-color: #ffbc05;
+	border-color: #a21809;
 }
